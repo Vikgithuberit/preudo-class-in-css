@@ -1,0 +1,1 @@
+# preudo-class-in-css
